@@ -1,0 +1,57 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+}
+
+img{
+	width: 200px;
+	display: inline-block;
+	
+}
+
+img.img{
+	width: 550px;
+	vertical-align: middle;
+}
+
+.main{
+	text-align: center;
+
+}
+
+.image{
+	width: 50px;
+	vertical-align: middle;
+}
+
+
+a:hover{
+	color: orange;
+}
+
+section {
+	text-align: right;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	margin-right: 30px;
+	display: inline-block;
+}
+
+
+.header{
+	width: 100%;
+	background: black;
+	color: white;
+	min-height: 45px;
+	margin-top: 40px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
